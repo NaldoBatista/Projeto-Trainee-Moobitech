@@ -1,0 +1,9 @@
+{
+    "name": "moobi/login",
+    "autoload": {
+        "psr-4": {
+            "Moobi\\": "src/"
+        }
+    },
+    "require": {}
+}

@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "porta": "3306",
+    "dbname": "banco_de_dados",
+    "usuario": "root",
+    "senha": "Tech@2023"
+}

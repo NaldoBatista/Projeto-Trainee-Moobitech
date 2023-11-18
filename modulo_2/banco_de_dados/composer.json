@@ -1,0 +1,9 @@
+{
+    "name": "moobi/banco_de_dados",
+    "autoload": {
+        "psr-4": {
+            "Moobi\\BancoDeDados\\": "src/"
+        }
+    },
+    "require": {}
+}
